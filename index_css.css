@@ -5,19 +5,19 @@ color: 50AAA9;
 }
 
 
-p {
+.App-text p {
   font-size: 1em;
   line-height: 1.4em;
   margin-bottom: 20px;
   color: #FFB238:
 }
 
-h1 {
+.App-text h1 {
   border-bottom: 1px solid #B22222;
   padding: 20px 0 0;
 }
 
-h2 {
+.App-text h2 {
   font size: 20px;
   
   padding: 20px 0 0;
