@@ -1,5 +1,13 @@
-html, body {background:#FF773D;
+html, body {background: #FF773D;
 font-family:'Lato', helvetica, arial, sands-serif;
 dont-size 16px;
 color: 50AAA9;
+}
+
+
+p{
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  colour: #FFB238:
 }
