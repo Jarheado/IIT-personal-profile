@@ -1,7 +1,11 @@
-html, body {background: #FF773D;
-font-family:'Lato', helvetica, arial, sands-serif;
-dont-size 16px;
-color: 50AAA9;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lato', helvetica, arial, sands-serif;
+}
+body{
+    background-color: #50AAA9;
 }
 
 
